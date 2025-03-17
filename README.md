@@ -5,16 +5,14 @@ PROJECT HELLO WORLD!!
 
 A new Flutter project
 Praktikum 3
-![Screnshoot Hello_Word](image/image1.png)
+![Screnshoot Hello_Word](image/1.png)
 Praktikum 4
-![Screnshoot Hello_Word](image/image2.png)
-![Screnshoot Hello_Word](image/image3.png)
+![Screnshoot Hello_Word](image/2.png)
+![Screnshoot Hello_Word](image/3.png)
 Praktikum 5
-![Screnshoot Hello_Word](image/image4.png)
-![Screnshoot Hello_Word](image/image5.png)
-![Screnshoot Hello_Word](image/image6.png)
-![Screnshoot Hello_Word](image/image7.png)
-![Screnshoot Hello_Word](image/image8.png)
-![Screnshoot Hello_Word](image/image9.png)
+![Screnshoot Hello_Word](image/4.png)
+![Screnshoot Hello_Word](image/5.png)
+![Screnshoot Hello_Word](image/6.png)
+![Screnshoot Hello_Word](image/7.png)
 
 
