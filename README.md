@@ -1,16 +1,20 @@
 # apk_1
 
-A new Flutter project.
-
+PROJECT HELLO WORLD!!
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A new Flutter project
+Praktikum 3
+![Screnshoot Hello_Word](image/image1.png)
+Praktikum 4
+![Screnshoot Hello_Word](image/image2.png)
+![Screnshoot Hello_Word](image/image3.png)
+Praktikum 5
+![Screnshoot Hello_Word](image/image4.png)
+![Screnshoot Hello_Word](image/image5.png)
+![Screnshoot Hello_Word](image/image6.png)
+![Screnshoot Hello_Word](image/image7.png)
+![Screnshoot Hello_Word](image/image8.png)
+![Screnshoot Hello_Word](image/image9.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
