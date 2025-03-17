@@ -1,7 +1,7 @@
-# apk_1
+# Aplikasi RIfqy Malikh Hanapi
 
 PROJECT HELLO WORLD!!
-## Getting Started
+## Mohon Di nilai
 
 A new Flutter project
 Praktikum 3
